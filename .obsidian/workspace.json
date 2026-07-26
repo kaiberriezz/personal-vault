@@ -11,10 +11,14 @@
             "id": "795c353cdd9a2b6e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "blog/fuck i love wlw zatr.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "fuck i love wlw zatr"
             }
           }
         ]
@@ -182,12 +186,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f20edc5522358e87",
+  "active": "795c353cdd9a2b6e",
   "lastOpenFiles": [
+    "images/divider.webp",
+    "blog/fuck i love wlw zatr.md",
     "images/obsidian_templater_cheat_sheet.md",
     "images/tumblr_b402f0b5440146ca0ed2d2c3925f0285_28feb329_500 1.gif",
     "templates/Title.md",
-    "images/divider.webp",
     "⋮ ♯;  ⤷ i need to smell like unicorns NOW.ᐟ.md",
     "blog",
     "images/tumblr_b402f0b5440146ca0ed2d2c3925f0285_28feb329_500.gif",
